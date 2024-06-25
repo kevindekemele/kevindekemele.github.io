@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "A piezoelectric nonlinear energy sink shunt for vibration damping"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: 'https://doi.org/10.1016/j.ymssp.2024.111615'
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 2024-11-1
+venue: 'Mechanical Systems and Signal Processing'
+paperurl: 'http://academicpages.github.io/files/piezoNESarticle_MSSP.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
