@@ -1,5 +1,6 @@
 ---
 title: "A piezoelectric nonlinear energy sink shunt for vibration damping"
+authors: "Kevin Dekemele, Christophe Giraud-Audine, Olivier Thomas"
 collection: publications
 permalink: 'https://doi.org/10.1016/j.ymssp.2024.111615'
 excerpt: 'This paper is about fixing template issue #693.'
