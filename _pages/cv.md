@@ -17,10 +17,10 @@ and Multi-Mode Vibrations: Theory, Simulation and Implementation*, Ghent Univers
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2015-2021: Academic assistant & PhD student
+  * Position with a shared research and teaching load
+  * Teaching labs & exercises in Structural Dynamics and several dynamics & control courses
+  * Research on the nonlinear energy sink, resonance capture cascade
 
 * Fall 2015: Research Assistant
   * Github University
