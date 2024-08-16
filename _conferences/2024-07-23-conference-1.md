@@ -1,6 +1,6 @@
 ---
 title: "(Non)Linear vibration absorber: from theory to implementation"
-collection: conference
+collection: conferences
 type: "Conference"
 venue: "ENOC 2024"
 date: 2022-03-18
