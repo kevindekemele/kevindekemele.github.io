@@ -17,4 +17,4 @@ energy harvesting and stability. By exploiting nonlinear dynamics, energy can be
 transferred. I have experience in both investigating nonlinear phenomenology and in designing, building and testing mechanical and piezoelectrical vibration controllers.
 ------
 This website bundles my research output, ranging from papers, code to talks and blogposts.
-Please use the email and social media buttons on the right to contact me.
+Please use the email and social media buttons on the right (pc) or the 'follow' (mobile) button to contact me.

@@ -17,20 +17,34 @@ and Multi-Mode Vibrations: Theory, Simulation and Implementation*, Ghent Univers
 
 Work experience
 ======
-* 2015-2021: Academic assistant & PhD student
+* 2021-...:Postdoctoral researcher at Ghent University, Ghent, Belgium
+  * 2021-2022: Funded by Industrial Research Fund project: RoViON
+  * 2022-...: Funded by Special Research Fund postdoctoral fellowship
+  * Research on the nonlinear energy sink, resonance capture cascade
+
+* 2015-2021: Academic assistant & PhD student at Ghent University
   * Position with a shared research and teaching load
   * Teaching labs & exercises in Structural Dynamics and several dynamics & control courses
   * Research on the nonlinear energy sink, resonance capture cascade
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2011-2017: Private Tutor at Educadomo & My Sherpa, Ghent, Belgium
+
+
+Visiting researcher
+======
+* 01/2023-01/2024: Visiting Research at ENSAM, Lille, France
+  * Funded by CWO international collaboration
+  * About a combined 30 days visit over a whole year
+
+* 02/2022-04/2022: Visiting Research at Budapest University of Technology and Economics Budapest , France
+  * Position with a shared research and teaching load
+  * Teaching labs & exercises in Structural Dynamics and several dynamics & control courses
+  * Research on the nonlinear energy sink, resonance capture cascade
+
+* 2011-2017: Private Tutor at Educadomo & My Sherpa
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
 Skills
 ======
