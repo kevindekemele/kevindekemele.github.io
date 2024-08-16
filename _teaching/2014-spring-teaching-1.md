@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Structural Dynamcs"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
-location: "City, Country"
+location: "Ghent, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Matlab course
 ======
 
-Heading 2
+Vibration Lab
 ======
 
-Heading 3
+Theory of Vibration control (2022-...)
 ======
