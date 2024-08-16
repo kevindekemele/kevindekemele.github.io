@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Modelleren en regelen van Dynamische systemen (2016-2021) [NL]"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Bachelor Engineering course"
+permalink: /teaching/2015-spring-teaching-2
 venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2015-09-01
+location: "Ghent University, Ghent, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Matlab course (2015-...)
 ======
 
-Heading 2
+Vibration Lab (2015-...)
 ======
 
-Heading 3
+Theory of Vibration control (2022-...)
 ======

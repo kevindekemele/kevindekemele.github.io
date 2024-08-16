@@ -1,11 +1,11 @@
 ---
-title: "Structural Dynamcs"
+title: "Structural Dynamics (2015-...) [EN]"
 collection: teaching
 type: "Master Civil Engineering course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-09-01 -- 2024
-location: "Ghent University, Ghent, Belgium"
+venue: "Ghent University"
+date: 2015-09-01
+location: "Ghent, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
