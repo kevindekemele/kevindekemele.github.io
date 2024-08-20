@@ -2,7 +2,7 @@
 title: "Effect of magnetic-spring bi-stable nonlinear energy sink on vibration and damage reduction of concrete double-column piers: Experimental and numerical analysis"
 authors: "Jundong Fu, Shui Wan, Peng Zhou, Jiwei Shen, Mia Loccufier, Kevin Dekemele"
 collection: publications
-permalink: '2024-3-15_JD_double_piers'
+permalink: '/publication/2024-3-15_JD_double_piers'
 excerpt: ''
 date: 2024-3-15
 venue: 'Engineering Structures'
