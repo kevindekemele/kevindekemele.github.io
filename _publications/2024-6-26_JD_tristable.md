@@ -2,7 +2,7 @@
 title: "Vibration control of a cantilever beam coupled with magnetic tri-stable nonlinear energy sink"
 authors: "Jundong Fu, Shui Wan, Wenke Li, Jiwei Shen, Harikrishnan Venugopal, Mia Loccufier, Kevin Dekemele"
 collection: publications
-permalink: 'https://doi.org/10.1007/s11071-024-09849-5'
+permalink: '/publication/2024-6-26_JD_tristable'
 excerpt: ''
 date: 2024-6-26
 venue: 'Nonlinear Dynamics'
