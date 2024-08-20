@@ -2,7 +2,7 @@
 title: "Cyclic loading test for prefabricated ultra-high performance concrete columns with bellows grouting connection"
 authors: 'Jundong Fu, Shui Wan, Jie Xiao, Xiao Wang, Peng Zhou, Kevin Dekemele'
 collection: publications
-permalink: 'https://doi.org/10.1002/suco.202301170'
+permalink: '/publication/2024-6-21_JD_precast'
 excerpt: ' '
 date: 2024-6-21
 venue: 'Structural Concrete'
