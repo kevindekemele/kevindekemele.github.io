@@ -3,6 +3,6 @@ title: "High voltage synthetic inductor in piezoelectric shunt to damp flexible 
 collection: conferences
 type: "Conference"
 venue: "SMART2023: 9th ECCOMAS Thematic Conference on Smart Structures and Material"
-date: 2021-02-18
+date: 2019-10-07
 location: "Paris, France"
 ---
