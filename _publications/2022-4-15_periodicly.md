@@ -24,5 +24,4 @@ and its performance is compared with that of the conventional NES and of the
 TMD by deriving the slow invariant manifolds (SIMs) in transient 1:1 resonance.
 The SIMs are curves that relate the vibration amplitudes of the primary system
 and the NES, and serve as an easy and computationally efficient tool to analyze
-performance. The research in this paper will prove that the newly proposed NES
-can be both robust regarding energy and frequency uncertainty,
+performance.  The research in this paper will prove that the newly proposed NES can be both robust regarding energy and frequency uncertainty, by considering the novel periodically extended stiffness characteristic.
