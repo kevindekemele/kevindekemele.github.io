@@ -1,6 +1,6 @@
 ---
 title: "Piezoelectrical NES: MATLAB code"
-excerpt: "Short description of portfolio item <a href='https://github.com/kevindekemele/PZT_cubic_shunt_NES'>here</a><br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item <a href='https://github.com/kevindekemele/PZT_cubic_shunt_NES'>here</a><br/><img src='/images/pztNES.jpg'>"
 collection: portfolio
 ---
 
