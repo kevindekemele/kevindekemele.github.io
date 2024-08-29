@@ -10,5 +10,6 @@ tags:
 
 Testing wether GIFs work on here...
 
+Quasi-Periodic Vibrations
 ======
 ![image info](/images/QP_2.gif)
