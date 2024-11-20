@@ -34,7 +34,7 @@ Visiting researcher
 ======
 * 01/2023-01/2024: Visiting Research at ENSAM, Lille, France
   * Funded by CWO international collaboration
-  * About a combined 30 days visit over a whole year
+  * Interrupted stay with weekly visits
 
 * 02/2022-04/2022: Visiting Research at Budapest University of Technology and Economics Budapest , France
   * Position with a shared research and teaching load
@@ -45,15 +45,6 @@ Visiting researcher
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
