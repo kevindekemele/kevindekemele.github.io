@@ -42,8 +42,7 @@ Visiting researcher
   * Research on the nonlinear energy sink, resonance capture cascade
 
 * 2011-2017: Private Tutor at Educadomo & My Sherpa
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
 
 
 Publications
@@ -64,6 +63,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
