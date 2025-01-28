@@ -6,7 +6,7 @@ collection: publications
 permalink: '/publication/2025-01-01-torsional'
 excerpt: ''
 date: 2025-01-01
-venue: '¨Pre-print'
+venue: 'Pre-print (Submitted to International Journal of Mechanical Sciences)'
 paperurl: 'https://www.kevindekemele.com/files/NES_PiecewiseStiffening_TorsionalVibration.pdf'
 citation: 'Harikrishnan Venupogal, Mia Loccufier and Kevin Dekemele. "Design of a Piecewise-Stiffening Nonlinear Energy Sink for Torsional Vibration
 Attenuation." International Journal of Mechanical Sciences. (PrePrint)'
